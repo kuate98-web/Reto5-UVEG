@@ -8,3 +8,4 @@ Practicar el uso de Git y GitHub para administrar las versiones de un proyecto.
 1. Crear un repositorio remoto.
 2. Clonar el repositorio en la computadora.
 3. Modificar y guardar archivos.
+4. Cambio hecho desde la página de GitHub.
