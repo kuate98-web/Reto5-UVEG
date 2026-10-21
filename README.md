@@ -9,3 +9,6 @@ Practicar el uso de Git y GitHub para administrar las versiones de un proyecto.
 2. Clonar el repositorio en la computadora.
 3. Modificar y guardar archivos.
 4. Cambio hecho desde la página de GitHub.
+
+## Pruebas
+Cambio hecho en la rama pruebas.
